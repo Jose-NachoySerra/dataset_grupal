@@ -1,11 +1,11 @@
 # Ordenacion Grupal
-·Link del repositorio: https://github.com/Jose-NachoySerra/dataset_grupal.git
+· Link del repositorio: https://github.com/Jose-NachoySerra/dataset_grupal.git
 
-·Participantes del grupo: @josean9, @serra16 y @Nachosanchezz
+· Participantes del grupo: @josean9, @seerraa16 y @Nachosanchezz
 # Archivos
-archibo.ipynb: Aqui resolveremos el ejercicio
+· archibo.ipynb: Aqui resolveremos el ejercicio
 
-Ejercicio: Aqui encontraremos una ayuda para resolver el ejercicio
+· Ejercicio: Aqui encontraremos una ayuda para resolver el ejercicio
 # Enunciado:
 Vamos a utilizar un caso práctico que se usa muchas veces en la presentación de las nociones básicas de estadísticas: la descripción y el análisis de una serie de notas que ha obtenido un estudiante. Este caso práctico es sencillo y todo el mundo se siente implicado porque se basa en nuestra experiencia. Además, nos permitirá entender las nociones necesarias para la comprensión de datos que también son aplicables a los casos más complejos que vamos a tratar en los capítulos siguientes.
 
