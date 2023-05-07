@@ -3,7 +3,7 @@
 
 · Participantes del grupo: @josean9, @seerraa16 y @Nachosanchezz
 # Archivos
-· archibo.ipynb: Aqui resolveremos el ejercicio
+· Ejercicio_a_resolver: Aquie encontraremos el archivo.ipynb donde resolveremos el ejercicio
 
 · Ejercicio: Aqui encontraremos una ayuda para resolver el ejercicio
 # Enunciado:
